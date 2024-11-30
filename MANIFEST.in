@@ -1,0 +1,7 @@
+include README.md
+
+include LICENSE
+
+recursive-include messaging_api_wrapper *.py
+
+include requirements.txt
